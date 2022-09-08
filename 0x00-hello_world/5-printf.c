@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * Description: prints "with proper grammar, but the out * come is a piece of art,"
- *
- * Return: Always 0 (Success)
+ * Description: prints using the main function
+ * this program prints "Programming is like building a multilingual puzzle
+ * Return: 0
  */
 int main(void)
 {
