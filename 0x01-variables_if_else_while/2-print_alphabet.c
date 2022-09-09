@@ -1,18 +1,20 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success/correct)
+ * main - main block
+ * Description: use putchar only to print characters
+ * Return: 0
  */
 int main(void)
 {
-	char i;
-	
-	for (i = 'a'; i <= 'z'; i++)
+	char c = 'a';
+
+	while (c <= 'z')
 	{
-		putchar(i);
+		putchar(c);
+		c++;
 	}
+
 	putchar('\n');
 	return (0);
 }
