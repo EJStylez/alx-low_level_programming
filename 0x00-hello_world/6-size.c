@@ -1,6 +1,6 @@
-ntel       1-compiler   3-name       5-printf.c  main.ci#include <stdio.h>
+#include <stdio.h>
 
-/*
+/**
  * main - print the size of various types
  *
  * Description: prints the size of various types on the computer it is compiled
