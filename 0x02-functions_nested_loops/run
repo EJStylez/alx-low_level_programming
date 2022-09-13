@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod a+x*
+git add .
+git commit -m 'working on variables and functions of c'
+git push
