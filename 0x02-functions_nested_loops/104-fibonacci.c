@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
- * main - something
- * Return: something
+ * main - Entry point
+ * return: 0
  */
 int main(void)
 {
@@ -10,9 +9,9 @@ int main(void)
 
 	j = 1;
 	k = 2;
-
+	
 	printf("%lu", j);
-
+	
 	for (i = 1; i < 91; i++)
 	{
 		printf(", %lu", k);
