@@ -1,5 +1,5 @@
-nclude "main.h"
-/*
+#include "main.h"
+/**
  * swap_int - swaps value
  * @a: params
  * @b: params
